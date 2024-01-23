@@ -1,4 +1,4 @@
-##INSTRUTIONS:
+## INSTRUTIONS:
 
 1.Clone the repository
 ```
